@@ -3,7 +3,7 @@ name: setting up environment
 on: [push]
     
 env:
- username: 1337x
+ username: mfc1337x
 jobs:
   build:
     runs-on: ubuntu-18.04
